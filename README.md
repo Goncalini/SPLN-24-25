@@ -1,4 +1,4 @@
-# SPLN
+# SPLN (24/25)
 Repositório para os TPC´s e projetos de Scripting no Processamento de Linguagem Natural
 
 ## Autor
